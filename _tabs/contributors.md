@@ -257,7 +257,9 @@ She has a Masters in Garden History and a BSc in Plant Ecology, is the author of
 ## Emily Hughes
 {: .img-top }
 
-![Emily Hughes](Hughs
+![Emily Hughes](Hughes.jpeg)
+
+Emily Hughes is a PhD candidate in Information Studies at University College London, working in partnership with Kew Gardens. Her research is about information, administration and the archive at Kew Gardens as an instrument and tool of colonialism for the British Empire.
 
 ## Yao Jiang
 
