@@ -254,6 +254,11 @@ Rachel Hirsch is a PhD candidate in history of art and architecture at Harvard U
 Christina Hourigan is a historical geography PhD candidate at Royal Holloway, University of London, in collaboration with the Royal Botanic Gardens, Kew. Her research on the history and value of the living collections and landscape of Kew's arboretum in the long nineteenth century is based in the plant humanities.  
 She has a Masters in Garden History and a BSc in Plant Ecology, is the author of several books on trees and botanical history (as Christina Harrison), and was previously editor of RBG Kew's magazine for ten years. Her research interests include plant history, mobility and agency. She was part of the Dumbarton Oaks Plant Humanities Summer Programme in 2021 and has recently co-curated a new exhibition at RBG Kew (Uprooted) on archival stories of forest change with fellow DO alumnus Heather Craddock.
 
+## Emily Hughes
+{: .img-top }
+
+![Emily Hughes](Hughs
+
 ## Yao Jiang
 
 ![Yao Jiang](Jiang.jpg)
