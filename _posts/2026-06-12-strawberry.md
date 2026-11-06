@@ -8,7 +8,7 @@ author: Elizabeth Mirabal, Madeleine Dowd, and Sophia Kamps
 date: 2026-06-12
 permalink: /strawberry
 tags: fruit food temperate
-published: false
+published: true
 featured: true
 media_subpath: /assets/posts/strawberry
 image:
