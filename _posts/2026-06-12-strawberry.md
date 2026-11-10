@@ -138,7 +138,7 @@ American painter [Winslow Homer](Q344838) depicted a different aspect of the str
 
 The strawberry was the subject of British designer and artist [William Morris](Q182589)’s wallpaper and textile design *Strawberry Thief* (1883). Morris (a member of the Arts and Crafts movement) looked back to medieval art for inspiration, so the stylized strawberry that repeats in his block print is likely the *F. vesca* that decorated the fifteenth-century manuscripts and the wild strawberry found in his native Britain. Morris situates the strawberry in a multispecies relationship waiting to be plucked by the strawberry thief—the thrush. Morris’ strawberry is not a symbolic attribute of the Virgin Mary or the subject of lustful revelry in a false Eden, but rather a plant in a complex ecosystem of birds, flowers, and vines in print.
 
-{% include embed/image.html manifest="https://api.artic.edu/api/v1/artworks/149052/manifest.json" caption="Both wild and cultivated *F. vesca* grew in the gardens at Kelmscott Manor, William Morris’s country house. As illustrated in Strawberry Thief (1883), these strawberries existed, not for human cultivation and consumption, but for the birds. William Morris, *Strawberry Thief*, 1883, Art Institute Chicago." aspect=0.75" %}
+{% include embed/image.html manifest="https://api.artic.edu/api/v1/artworks/149052/manifest.json" caption="Both wild and cultivated *F. vesca* grew in the gardens at Kelmscott Manor, William Morris’s country house. As illustrated in Strawberry Thief (1883), these strawberries existed, not for human cultivation and consumption, but for the birds. William Morris, *Strawberry Thief*, 1883, Art Institute Chicago." aspect="0.75" %}
 
 # Metropolitan Perspectives versus Indigenous Interpretations of Strawberries
 
