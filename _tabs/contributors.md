@@ -258,6 +258,13 @@ Rachel Hirsch is a PhD candidate in history of art and architecture at Harvard U
 Christina Hourigan is a historical geography PhD candidate at Royal Holloway, University of London, in collaboration with the Royal Botanic Gardens, Kew. Her research on the history and value of the living collections and landscape of Kew's arboretum in the long nineteenth century is based in the plant humanities.  
 She has a Masters in Garden History and a BSc in Plant Ecology, is the author of several books on trees and botanical history (as Christina Harrison), and was previously editor of RBG Kew's magazine for ten years. Her research interests include plant history, mobility and agency. She was part of the Dumbarton Oaks Plant Humanities Summer Programme in 2021 and has recently co-curated a new exhibition at RBG Kew (Uprooted) on archival stories of forest change with fellow DO alumnus Heather Craddock.
 
+## Emily Hughes
+{: .img-top }
+
+![Emily Hughes](Hughes.jpeg)
+
+Emily Hughes is a PhD candidate in Information Studies at University College London, working in partnership with Kew Gardens. Her research is about information, administration and the archive at Kew Gardens as an instrument and tool of colonialism for the British Empire.
+
 ## Yao Jiang
 
 ![Yao Jiang](Jiang.jpg)
@@ -283,6 +290,11 @@ Taking from disciplines such as performance studies, anthropology, museum studie
 ## Sophia Kamps
 
 Sophia Kamps is a PhD student on an AHRC-funded project between Royal Holloway, University of London, and the Royal Botanic Gardens, Kew, focusing on the Lovell Reeve & Co. archives. Her research explores the nineteenth-century readership of natural history texts, the impact of serial publishing on science, and the history of botanical illustration, emphasizing the roles of working-class designers and women artists
+## Kate Kaufman
+
+![Kate Kaufman](kaufman.jpeg)
+
+Kate Kaufman is a student at Harvard College, where she is studying neuroscience and social studies. Her thesis concerns 21st century anti-internet movements. An aspiring journalist, Kate's writing often focuses on mental health, technology, and scientific progress. She has completed writing fellowships at The Maine Monitor and Harvard Magazine and is currently serving as the co-editor-in-chief of Fifteen Minutes, The Harvard Crimson's weekly magazine for narrative journalism. Kate was Dumbarton Oaks' 2025 Plant Humanities Summer Intern.
 
 ## Wouter Klein
 {: .img-top }
