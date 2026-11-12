@@ -289,7 +289,10 @@ Taking from disciplines such as performance studies, anthropology, museum studie
 
 ## Sophia Kamps
 
-Sophia Kamps is a PhD student on an AHRC-funded project between Royal Holloway, University of London, and the Royal Botanic Gardens, Kew, focusing on the Lovell Reeve & Co. archives. Her research explores the nineteenth-century readership of natural history texts, the impact of serial publishing on science, and the history of botanical illustration, emphasizing the roles of working-class designers and women artists
+![Sophia Kamps](Kamps.JPG)
+
+Sophia Kamps is a Ph.D. student at the Royal Botanic Gardens, Kew and Royal Holloway, University of London. She holds an M.A. in Art History from Queen’s University, Canada and a B.A. Joint Honors in Art History and Political Science from McGill University. Her doctoral research focuses on Victorian natural history publishing and illustration, particularly the work of working-class designers and women artists and their agency in producing botanical knowledge. Sophia was previously the Tiffany & Co. Foundation Intern in American Decorative Arts at the Metropolitan Museum of Art and led the pilot year of the NEH-supported Woodlawn Stained Glass Survey, supervised by the Met. Sophia also recently completed a research placement at the Victoria & Albert Museum. Sophia’s research is supported by the AHRC and Canada’s SSHRC.
+
 ## Kate Kaufman
 
 ![Kate Kaufman](kaufman.jpeg)
@@ -331,6 +334,18 @@ His current work examines how American botanist Asa Gray first took an interest 
 ![Elizabeth Mirabal](Mirabal.JPG)
 
 Elizabeth Mirabal is a Ph.D. Candidate in the Department of Spanish, Italian, and Portuguese at the University of Virginia and a P.E.O. Scholar. She holds an M.A. in Spanish from UVA and a B.A. in Journalism from the University of Havana. As a participant in the 2025 Plant Humanities Summer Program, her research examined the relationships nineteenth-century writers in the Americas forged with plants through private texts such as diaries and letters. Her interest in the poetic dimensions of herbariums has deepened since the publication of her poetry collection Herbarium (2021), later translated into English by Valparaíso Editions USA (2024). Her article, “Flores dispersas, hojas secas: El herbarium poeticus epistolar y exílico de Dolores Rodríguez de Tió,” received the Best Article Award from the Nineteenth Century Section of the Latin American Studies Association (LASA). She has published in journals in Spain, Argentina, the United States, Mexico, and Cuba, including _Hispania_, _Revista Hispánica Moderna_, _Poéticas_, _República de las Letras_, _Recial_, _Cuban Studies_, _Intervenxions_, _Iowa Literaria_, and _NACLA_, among others. Her work has been supported by several recognitions and fellowships, among them the Tibor Wlassics Dante Prize, the Frederick W. Beinecke Fellowship, and the Goizueta Graduate Research Fellowship.
+
+## Moira Newman
+
+![Moira Newman](Newman.jpeg)
+
+Moira Newman is a PhD candidate in Botany at Trinity College Dublin. Her research is based on plant trait ecology and her dissertation, Traits in Flux, looks at how above and below ground traits in the Irish agricultural landscape change over space and time in response to increased greenhouse gas concentrations.
+
+## Lois Nguyen
+
+![Lois Nguyen](Nguyen.jpg)
+
+Lois Nguyen is a PhD candidate in Science and Technology Studies at Virginia Tech. Her dissertation, Plants at Work: The Technological Transformation of Poplars, examines how poplar trees became an environmental technology and enrolled in projects of environmental repair.
 
 ## Victoria Pickering
 
